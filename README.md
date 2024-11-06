@@ -6,4 +6,5 @@ Bu uygulama ile kullanıcılar:
 
 --Diyet raporları alabilir ve geçmiş yeme alışkanlıklarını gözlemleyebilir.
 Besin değeri bilgilerini görüntüleyebilir ve raporlarda toplam/ortalama tüketim verilerine ulaşabilir.
+
 --Bu özellikler sayesinde kullanıcılar, yemek seçimlerini sağlıklı tercihler doğrultusunda şekillendirebilir ve hedeflerine yönelik doğru adımları atabilir.

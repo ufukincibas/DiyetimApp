@@ -1,13 +1,15 @@
 import React from "react";
-import { Button, View } from "react-native";
+import { Button as RNButton} from "react-native";
 
 import styles from "./Button.styles"
 
-function Button(){
+function Button({title , onPress}){
     return(
-        <View>
-            <Button/>
-        </View>
+       
+            <RNButton style={styles.button}
+             title={title} 
+             onPress={onPress}/>
+      
     )
 }
 
